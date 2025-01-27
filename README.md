@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Amir
 
-Welcome to my GitHub! I'm a **Computing Science student at Thompson Rivers University**, passionate about solving real-world problems through innovative software solutions. Originally from **Bangladesh**, I moved to **Canada** to pursue higher education and explore new opportunities in technology.
+Welcome to my GitHub! I'm a **Computing Science student**, passionate about solving real-world problems through innovative software solutions.
 
 ---
 
 ## 🚀 About Me
-- **🔧 Technical Expertise**: Proficient in **Python**, **Java**, **Node.js**, **Express.js**, **MongoDB**, and **SQL**.
-- **🖥️ Web Development**: Skilled in **HTML**, **CSS**, **JavaScript**, and PHP, with hands-on experience in building user-centric websites.
+- **🔧 Technical Expertise**: Proficient in **Python**, **Java**, **TypeScript**, **JavaScript**, **HTML**, **CSS**, **React**, **Node.js**, **Express.js**, **SQL**, **MongoDB**, **PostgreSQL**, and **Android Studio**.
+- **🔅 Web Development**: Skilled in **front-end** and **back-end** development, creating user-centric and performance-optimized web applications.
 - **🌐 Projects**:
   - **Personalized Therapy Assistant**: A mental health website integrating NLP for mood detection and personalized suggestions. [WIP]
   - **Fitness App for Beginners**: Designed for Human-Computer Interaction coursework, featuring Yoga exercises and camera-based body tracking.
@@ -17,20 +17,19 @@ Welcome to my GitHub! I'm a **Computing Science student at Thompson Rivers Unive
 
 ---
 
-## 🎯 My Current Goals
-- Launching **Velora**, a clothing brand in Bangladesh targeting both men and women, with trendy collections.
-- Learning **French** to expand my communication skills.
+## 🖯 My Current Goals
 - Gaining practical experience in **HCI design** and **mental health applications**.
-- Sharing insights and experiences on my YouTube channel: [Amir in Canada](https://www.youtube.com/channel/your-channel-link).
+- Enhancing my expertise in **software development** and **data management**.
 
 ---
 
 ## 🛠️ Tools and Technologies
-- **Languages**: Python, Java, JavaScript, PHP, C
-- **Frameworks & Libraries**: Node.js, Express.js, React (beginner)
-- **Databases**: MongoDB, MySQL, Oracle SQL
+- **Languages**: Python, Java, JavaScript, TypeScript, PHP, C
+- **Frameworks & Libraries**: React, Node.js, Express.js
+- **Databases**: MongoDB, PostgreSQL, MySQL, Oracle SQL
 - **Design**: HTML, CSS, TailwindCSS
 - **Version Control**: Git, GitHub
+- **Mobile Development**: Android Studio
 
 ---
 
@@ -43,9 +42,8 @@ Welcome to my GitHub! I'm a **Computing Science student at Thompson Rivers Unive
 
 ---
 
-## 📫 Let's Connect
+## 📧 Let's Connect
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **YouTube**: [Amir in Canada](https://www.youtube.com/channel/your-channel-link)
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 ---
@@ -53,3 +51,4 @@ Welcome to my GitHub! I'm a **Computing Science student at Thompson Rivers Unive
 > "Passion for learning and innovation drives me to create solutions that make a difference."
 
 Feel free to explore my projects, collaborate, or just say hi! 😄
+
