@@ -17,11 +17,6 @@ Welcome to my GitHub! I'm a **Computing Science student**, passionate about solv
 
 ---
 
-## 🖯 My Current Goals
-
-- Enhancing my expertise in **software development** and **data management**.
-
----
 
 ## 🛠️ Tools and Technologies
 - **Languages**: Python, Java, JavaScript, TypeScript, PHP, C
