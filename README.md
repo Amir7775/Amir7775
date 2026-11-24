@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm A Mi R
+# Hi there! 👋 I'm Amir Hossain
 
 Welcome to my GitHub! I'm a **Computing Science student**, passionate about solving real-world problems through innovative software solutions.
 
