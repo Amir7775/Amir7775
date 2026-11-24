@@ -32,6 +32,7 @@ Welcome to my GitHub! I'm a **Computing Science student**, passionate about solv
 - Software development
 - Web development
 - IT Analyst
+- Cybersecurity
 - Operating systems and load balancing techniques
 - Business development and e-commerce
 
